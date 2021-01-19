@@ -2931,7 +2931,7 @@
 
 	#banner {
 		padding: 14em 0 12em 0;
-		background: linear-gradient(rgba(255,255,255,0.7), rgba(255, 255, 255, 0.7)), url(../../images/laptop.jpg);
+		background: linear-gradient(rgba(255,255,255,0.2), rgba(255, 255, 255, 0.2)), url(../../images/laptop.jpg);
 		background-size: cover;
 		background-position: center top;
 		background-repeat: no-repeat;
